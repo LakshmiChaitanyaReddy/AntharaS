@@ -1,0 +1,233 @@
+{
+  "pdf": {
+    "pages": "auto",
+    "paper": "a4",
+    "exclude": [],
+    "template": "technical",
+    "includeVisual": false
+  },
+  "theme": {
+    "mode": "dark",
+    "vars": {
+      "dark": {},
+      "light": {},
+      "common": {}
+    },
+    "fonts": {},
+    "preset": "bold-gradient",
+    "variation": "standard",
+    "customThemes": [],
+    "iconAnimation": "lift"
+  },
+  "skills": [
+    {
+      "icon": "",
+      "items": [
+        "Service Catalogs",
+        "Flow Designer",
+        "Service Portal",
+        "Service Opera-",
+        "tions Workspace (SOW)",
+        "UI Builder",
+        "ITSM",
+        "HRSD (Basics)",
+        "Integrations",
+        "Database Views",
+        "Transform Maps",
+        "Update Sets Migration."
+      ],
+      "category": "ServiceNow Modules"
+    },
+    {
+      "icon": "",
+      "items": [
+        "JavaScript",
+        "Glide API",
+        "Business Rules",
+        "Client Scripts",
+        "Script",
+        "Includes",
+        "UI Policies",
+        "UI Actions."
+      ],
+      "category": "Scripting & Development"
+    }
+  ],
+  "profile": {
+    "name": "Anthara S",
+    "about": [
+      "ServiceNow Developer with 7+ years of IT experience in designing, developing, and implement- ing ITSM solutions[cite: 4]. Expertise in Service Catalogs, Incident, Problem, Change, and Release Management (ITSM Module), with hands-on experience in Service Portal, Service Op- erations Workspace, UI Builder, Flow Designer, Integrations, and platform development[cite 4]. Demonstrated ability to work effectively in a team and as an individual contributor, ensuring timely delivery of successful project outcomes[cite: 4]."
+    ],
+    "email": "antharasundaramurthy@gmail.com",
+    "links": [],
+    "phone": "8498093234",
+    "photo": {
+      "alt": "",
+      "src": ""
+    },
+    "title": "Senior ServiceNow Developer",
+    "status": "Open to new roles",
+    "ogImage": {
+      "alt": "",
+      "src": ""
+    },
+    "siteUrl": "",
+    "tagline": "ServiceNow Developer with 7+ years of IT experience in designing, developing, and implement- ing ITSM solutions[cite: 4].",
+    "location": "",
+    "brandIcon": "",
+    "resumeUrl": "",
+    "shortName": "Anthara",
+    "resumeMode": "",
+    "resumeName": "",
+    "yearsRounding": "",
+    "experienceYears": ""
+  },
+  "projects": [],
+  "sections": [],
+  "template": {
+    "look": "clean-recruiter",
+    "pack": "software-it",
+    "skeleton": "clean-recruiter"
+  },
+  "education": [
+    {
+      "degree": "Bachelor’s in Computer Science and Systems Engineering",
+      "detail": "",
+      "endYear": "2019",
+      "startYear": "",
+      "institution": "Sree Vidyanikethan Engineering College, Tirupati[cite: 4]"
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-1",
+      "role": "Senior Application Consultant",
+      "tech": [
+        "Service Catalogs",
+        "Flow Designer",
+        "Service Portal",
+        "UI Builder",
+        "Database Views",
+        "Transform Maps",
+        "Business Rules",
+        "Client Scripts"
+      ],
+      "company": "IBM India Pvt. Ltd.",
+      "endDate": null,
+      "summary": "",
+      "location": "",
+      "startDate": "2026-08",
+      "highlights": [
+        "Developed and maintained Service Catalogs using Flow Designer, implementing end-to-end fulfillment processes based on business requirements[cite: 4, 5].",
+        "Configured custom tables, forms, and lists to meet functional and business requirements[cite 5].",
+        "Developed and configured Business Rules, Client Scripts, Catalog Client Scripts, Script Includes, UI Policies, and UI Actions to implement business logic and enhance platform functionality[cite: 5].",
+        "Built and customized Service Portal components, including Pages and Widgets, to enhance user experience[cite: 5].",
+        "Worked extensively with Service Operations Workspace (SOW) and UI Builder to enhance workspace functionality and user experience, implementing ’My Approvals’ page for end-user approval management[cite: 5].",
+        "Designed and configured Database Views by joining custom and out-of-box tables (Ap- provals, Requested Items, Service Agreements) to consolidate workspace information[cite 5].",
+        "Developed and configured Transform Maps using Data Sources to support data migration and record management[cite: 5].",
+        "Utilized System Dependency checks to identify potential downstream impacts of table and field changes, documenting impacts and updating dependency comments[cite: 5]."
+      ]
+    },
+    {
+      "id": "exp-2",
+      "role": "Senior Infra Developer",
+      "tech": [
+        "Flow Designer",
+        "Integrations",
+        "JavaScript",
+        "Business Rules",
+        "Client Scripts",
+        "Script",
+        "Includes",
+        "UI Policies"
+      ],
+      "company": "Cognizant Technology Solutions",
+      "endDate": "2025-07",
+      "summary": "",
+      "location": "",
+      "startDate": "2022-07",
+      "highlights": [
+        "Developed and maintained Service Catalog Items and Record Producers using Workflows and Flow Designers[cite: 5, 6].",
+        "Implemented third-party integrations using Flow Designer triggered on Catalog Item cre- ation to update corresponding records[cite: 6].",
+        "Created Inbound Email flows, Scheduled Jobs, Dashboards, and Reports[cite: 6].",
+        "Developed Business Rules, Client Scripts, Script Includes, UI Actions, and UI Policies using JavaScript[cite: 6].",
+        "Managed multiple modules including Major Incident Management, Service Operations Workspace Universal Request, and basic HRSD[cite: 6].",
+        "Created and managed Update Sets to move customizations seamlessly between systems[cite 6]."
+      ]
+    },
+    {
+      "id": "exp-3",
+      "role": "Senior Systems Engineer — Client: Telstra (Domain: Telecom) Role: ServiceNow Developer",
+      "tech": [
+        "Service Portal",
+        "ITSM",
+        "Database Views",
+        "Business Rules",
+        "Client Scripts",
+        "Script",
+        "Includes",
+        "UI Policies"
+      ],
+      "company": "Infosys Limited",
+      "endDate": "2022-06",
+      "summary": "",
+      "location": "",
+      "startDate": "2019-09",
+      "highlights": [
+        "Cyber Security (Security Operations): Developed scoped application solutions using Business Rules, Client Scripts, ACLs, UI Policies, Script Includes, and UI Pages[cite: 6 7]. Customized Service Portal pages and widgets[cite: 7]. Created Database Views and managed user access control and roles[cite: 7].",
+        "GetHelp: Implemented ITSM modules including Incident Management (with ITAM mon- itoring) and Change Management (CRQ creation and pre-prod to prod deployment via update sets)[cite: 7, 8]."
+      ]
+    }
+  ],
+  "sectionOrder": [
+    "about",
+    "experience",
+    "skills",
+    "projects",
+    "education",
+    "certifications"
+  ],
+  "sectionLabels": {
+    "about": "Summary",
+    "skills": "Skills",
+    "projects": "Projects",
+    "education": "Education",
+    "experience": "Experience",
+    "certifications": "Certifications"
+  },
+  "certifications": [
+    {
+      "abbr": "",
+      "icon": "",
+      "name": "ServiceNow Certified System Administrator (CSA)[cite: 4]",
+      "year": "",
+      "issuer": "",
+      "credentialUrl": ""
+    },
+    {
+      "abbr": "",
+      "icon": "",
+      "name": "ServiceNow Certified Application Developer (CAD)[cite: 4]",
+      "year": "",
+      "issuer": "",
+      "credentialUrl": ""
+    },
+    {
+      "abbr": "",
+      "icon": "",
+      "name": "Certified Implementation Specialist",
+      "year": "",
+      "issuer": "IT Service Management (CIS",
+      "credentialUrl": ""
+    },
+    {
+      "abbr": "",
+      "icon": "",
+      "name": "Certified Implementation Specialist",
+      "year": "",
+      "issuer": "Data Foundations (CIS",
+      "credentialUrl": ""
+    }
+  ],
+  "hiddenSections": []
+}
